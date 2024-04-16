@@ -11,7 +11,7 @@ Systems consists:
 - A mobile app (Android) using for navigation
 
 ### Mobile App Screenshots
-<img src="https://i.imgur.com/rFQf562.png"/>   <img src="https://i.imgur.com/vSUTRQJ.png"/> <img src="https://i.imgur.com/RVKvF6r.png"/> <img src="https://i.imgur.com/zl5pvHA.png" /> <img src="https://i.imgur.com/OG1SHzL.png" width=250 /> 
+   <img src="https://i.imgur.com/vSUTRQJ.png"/> <img src="https://i.imgur.com/RVKvF6r.png"/> <img src="https://i.imgur.com/zl5pvHA.png" /> <img src="https://i.imgur.com/OG1SHzL.png" width=250 /> 
 
 ### QR-Code Navigation Approach
 Reference: [“A Novel Method for Indoor Navigation Using QR Codes”](https://www.researchgate.net/publication/295210900_A_Novel_Method_for_Indoor_Navigation_Using_QR_Codes "“A Novel Method for Indoor Navigation Using QR Codes”"), Sujith Suresh, P.M. Rubesh Anand, and D. Sahaya Lenin
